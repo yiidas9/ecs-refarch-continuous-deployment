@@ -46,6 +46,8 @@ The CloudFormation template requires the following parameters:
   - **User**: Your username on GitHub.
   - **Personal Access Token**: Token for the user specified above. ([https://github.com/settings/tokens](https://github.com/settings/tokens))
 
+yiidas9:99bc8be8821e65c5681f5ea4aa0f9ac9144727d2
+
 The CloudFormation stack provides the following output:
 
 - **ServiceUrl**: The sample service that is being continuously deployed.
